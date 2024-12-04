@@ -10,9 +10,9 @@ const BlogHome = () => {
       id: 1,
       titleOne: "YOU CAN CHANGE THE WORLD",
       titletwo: "STRONG STYLE",
-      paraOne: "How Women are Redirecting Hollywood",
+      paraOne: "How men are Redirecting Hollywood",
       paraTwo: "New Ways to Wear Denim Belt Bags make a Comeback",
-      name: "By Jasmin Smith",
+      name: "By Bilal Boudrar",
       subTitle: "How to Shop Mindfully",
       qrCode: "/images/qrcode.png",
       cover: "/Images/blog5.jpg",
@@ -26,7 +26,7 @@ const BlogHome = () => {
             return (
               <div className='content'>
                 <div className='logo'>
-                  <h1>M</h1>
+                  <h1>B</h1>
                 </div>
                 <div className='home-img'>
                   <img src={value.cover} alt='' />
